@@ -1,2 +1,2 @@
 # RAD_Project
-#Manav, Shihang, Terry, Jiong
+Manav, Shihang, Terry, Jiong
